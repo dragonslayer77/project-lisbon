@@ -74,3 +74,15 @@ a.socialIcon:hover, .socialHoverClass {
 	transition: all 0.8s;
 }
 
+.touch {
+	margin-bottom: 30px;
+}
+	
+.mystylecontainer {
+	padding-left: 0px;
+}
+
+.section5 {
+	padding-top:40px;
+	height:80vh;
+}
